@@ -1,7 +1,4 @@
-嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： 
-
-- [https://t66y.cf](https://t66y.cf)
-- [https://t66y.gq](https://t66y.gq)
+嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： [https://t66y.cf](https://t66y.cf)
 
 <!--
 - 👋 Hi, I’m @t66y-sc
