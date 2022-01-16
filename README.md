@@ -1,4 +1,4 @@
-嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： [https://t66y.cf](https://t66y.cf)
+嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： [https://caoliu1024.gq](https://caoliu1024.gq)
 
 <!--
 - 👋 Hi, I’m @t66y-sc
