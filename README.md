@@ -1,4 +1,4 @@
-嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： [https://cl.iduck.gq](https://cl.iduck.gq)
+嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： [https://caoliu1024.ga](https://caoliu1024.ga)
 
 <!--
 - 👋 Hi, I’m @t66y-sc
