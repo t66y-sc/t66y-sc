@@ -7,7 +7,7 @@
 		#_jads .pc, #_adxad .pc, #_adxad .m2{ display: none }
 	}
 </style>
-<script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
+<script type="text/javascript" data-cfasync="false" async src="https://t66y-sc.ga/js/jads.js"></script>
 <div id="_jads" style="text-align: center;">
 	<div class="pc"><ins id="973218" data-width="728" data-height="102"></ins></div>
   <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':973218});</script>
