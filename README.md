@@ -1,8 +1,8 @@
-嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： [https://t66y-sc.ga](https://t66y-sc.ga)
+嗯，这是一个草榴社区的镜像站，并且进行了繁体转简体： [https://t66y-sc.gq](https://t66y-sc.gq)
 
-支持一下:
+**支持我:**
 
- - USDT/TRX: TByX3ViJVnbZFrKs1A5NVd3XDUZzi6pdyy
+ - **USDT/TRX**: TByX3ViJVnbZFrKs1A5NVd3XDUZzi6pdyy
 
 <!--
 - 👋 Hi, I’m @t66y-sc
