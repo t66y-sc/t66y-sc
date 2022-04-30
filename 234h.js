@@ -3,7 +3,7 @@ jQuery('img[data-original]').each(function(){
     $(this).attr('data-original')
     .replace('http://img.aiaixx.top',  'https://pic1.sex58.ga')
     .replace('http://img2.aiaixx.top', 'https://pic2.sex58.ga')
-    .replace('http://img3.aiaixx.top', 'https://pic3.234h.ga')
+    .replace('http://img3.aiaixx.top', 'https://pic3.sex58.ga')
   )
 });
 jQuery('img').each(function(){
