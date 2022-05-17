@@ -1,6 +1,6 @@
 var ismob = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 document.write(`
-<script type="text/javascript" data-cfasync="false" async src="https://t66y-sc.ga/js/jads.js"></script>
+<script type="text/javascript" data-cfasync="false" async src="https://caoliu1024.ml/js/jads.js"></script>
 <div id="_jads" style="text-align: center;">
   <div><ins id="973218" data-width="728" data-height="102"></ins></div>
   <div><ins id="975733" data-width="300" data-height="112"></ins></div>
