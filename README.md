@@ -1,5 +1,5 @@
 嗯，这是一个草榴社区的镜像站：
-  - [https://caoliu1024.ml](https://caoliu1024.ml)
+  - [https://caoliu1024.ml](https://t66yx.ml)
   - [https://cl.202206.ga](https://cl.202206.ga)
 
 **支持我:**
