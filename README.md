@@ -1,6 +1,6 @@
 嗯，这是一个草榴社区的镜像站：
   - [https://t66yx.ml](https://t66yx.ml)
-  - [https://cl.202206.ga](https://cl.202206.ga)
+  - [https://t66yx.ga](https://t66yx.ga)
 
 **支持我:**
 
