@@ -1,6 +1,5 @@
 嗯，这是一个草榴社区的镜像站：
-  - [https://cl.zwiki.top](https://cl.zwiki.top)
-  - [https://cl.dnpp.gq](https://cl.dnpp.gq)
+  - [https://t66y.dnpp.gq](https://cl.dnpp.gq)
 
 **支持我:**
 
